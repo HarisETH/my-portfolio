@@ -1,0 +1,30 @@
+nav {
+  
+  background: rgba(250, 250, 250, 0.421);
+
+  backdrop-filter: blur(30px);
+  -webkit-backdrop-filter: blur(20px);
+
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+@font-face {
+  font-family: 'Monument Extended';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Monument Extended'), url('https://fonts.cdnfonts.com/s/19595/MonumentExtended-Regular.woff') format('woff');
+}
+@font-face {
+  font-family: 'Monument Extended';
+  font-style: normal;
+  font-weight: 800;
+  src: local('Monument Extended'), url('https://fonts.cdnfonts.com/s/19595/MonumentExtended-Ultrabold.woff') format('woff');
+}
+.font-monu{
+  font-family: 'Monument Extended', sans-serif;
+                                                
+}
+#footer{
+  background: #121FCF;
+background: linear-gradient(to right, #121FCF 0%, #CF1512 100%);
+
+}
