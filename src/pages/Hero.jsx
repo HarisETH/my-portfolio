@@ -137,16 +137,22 @@ export default function Hero({isActive, toggler, isToggle}) {
 
               <a
                 className="text-xl  hover:text-blue-600"
-                href="https://www.github.com/HarisETH"
+                href="https://www.fueler.io/haris_one"
               >
-                Medium
+                Fueler
               </a>
 
               <a
                 className="text-xl  hover:text-blue-600"
-                href="https://www.github.com/HarisETH"
+                href="https://www.twitter.com/Haris_ETH"
               >
                 Twitter
+              </a>
+              <a
+                className="text-xl hover:text-blue-600"
+                href="https://peerlist.io/haris"
+              >
+                PeerList
               </a>
             </div>
           </div>
